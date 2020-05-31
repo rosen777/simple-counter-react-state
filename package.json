@@ -1,5 +1,5 @@
 {
-  "name": "simple-counter",
+  "name": "simple-counter-adds-increment-decrement-and-reset",
   "version": "1.0.0",
   "description": "A simple counter application for demonstrating state management",
   "keywords": [],
